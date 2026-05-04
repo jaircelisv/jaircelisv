@@ -4,7 +4,7 @@
 Board member at [Godat](https://godat.co) — clinical software I founded in 2016,
 still operating profitably and serving Allianz, Mapfre, and Sanitas in Colombia.
 
-At TherapyFlow we're building an AI clinical scribe that gives psychologists
+At TherapyFlow we're building an AI clinical agent that gives psychologists
 their evenings back. Sessions in. Compliant clinical notes out. No typing.
 
 #### What I'm building right now
