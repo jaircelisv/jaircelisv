@@ -29,7 +29,7 @@ Mapfre, and Sanitas. RIPS processing infrastructure (Colombian healthcare claims
 standard) at production scale, millions of records. The company is still
 operating profitably with the team I built.
 
-13 years shipping software in LATAM healthtech.
+13 years shipping production healthtech software, building from Colombia for the world.
 
 #### Reach me
 
