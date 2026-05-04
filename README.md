@@ -1,6 +1,6 @@
 ### Hi, I'm Jair 👋
 
-**CTO & Co-founder at [TherapyFlow](https://therapyflow.app)** — applying to YC S26.
+**CTO & Co-founder at [TherapyFlow](https://therapyflow.app)**.
 
 We're building an AI clinical scribe that gives psychologists their evenings back.
 Sessions in. Compliant clinical notes out. No typing.
@@ -13,8 +13,6 @@ Sessions in. Compliant clinical notes out. No typing.
   that tracks patient evolution across sessions.
 - 📞 **Voice-first patient intake** — Vapi + ElevenLabs + TinyFish for agentic
   web automation. Sally answers the phone, books the session, hands off to the therapist.
-- 🌎 **LATAM-first** — Spanish-native UX, Colombia → Mexico → Spain.
-
 #### Stack I work with daily
 
 TypeScript · Rust · Python · NestJS · Next.js 15 · React 19 · Tauri ·
